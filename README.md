@@ -1,3 +1,3 @@
-# Juhyeok Kim
+# Hi, I'm Juhyeok
 
-> Think deeply. Build simply.
+I'm learning computer science by building small things I find useful.
