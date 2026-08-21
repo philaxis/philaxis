@@ -1,5 +1,5 @@
 # Juhyeok Kim
 
-I build small tools that make reading, writing, and everyday workflows easier.
+Philosophy student at Seoul National University, building small tools and learning computer science.
 
 `Python` · `TypeScript` · `Kotlin`
