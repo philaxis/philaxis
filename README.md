@@ -1,7 +1,7 @@
 ### 안녕하세요, 필락시스입니다.
 
 흐름 끊기는 게 싫어서 도구를 만듭니다. 생각이 손보다 빠를 때가 많아서, 그 사이에 걸리는 걸 하나씩 치웁니다.
-<sub>I build small tools because I hate losing flow.</sub>
+
 
 | | |
 |---|---|
